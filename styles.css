@@ -17,7 +17,6 @@ h1 {
     font-size: 48px;
     padding: 10px;
     border: 2px solid #61dafb;
-    border-width: 2px 50px; /* 2px top/bottom, 50px left/right */
     border-radius: 10px;
 }
 
