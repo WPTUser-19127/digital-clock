@@ -10,6 +10,10 @@ body {
     color: #61dafb;
 }
 
+h1 {
+    margin-bottom: 20px; /* Adds space between the heading and the clock */
+}
+
 .clock {
     text-align: center;
     font-size: 48px;
