@@ -1,13 +1,11 @@
 /*Cascading Style Sheets (CSS)*/
 body {
     background-color: #282c34;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
     font-family: 'Courier New', Courier, monospace;
     color: #61dafb;
+    text-align: center;
+    margin: 0;
+    padding: 40px 0; /* Adds padding at the top and bottom */
 }
 
 h1 {
