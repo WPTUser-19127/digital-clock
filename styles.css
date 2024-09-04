@@ -7,10 +7,6 @@ body {
     padding: 40px 0;
 }
 
-h1 {
-    display: none;
-}
-
 .clock {
     display: inline-block;
     font-size: 48px;
