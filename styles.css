@@ -1,15 +1,10 @@
 /*Cascading Style Sheets (CSS)*/
 body {
     background-color: #282c34;
-    font-family: 'Courier New', Courier, monospace;
     color: #61dafb;
     text-align: center;
     margin: 0;
-    padding: 40px 0; /* Adds padding at the top and bottom */
-}
-
-h1 {
-    margin-bottom: 20px; /* Adds space between the heading and the clock */
+    padding: 40px 0;
 }
 
 .clock {
